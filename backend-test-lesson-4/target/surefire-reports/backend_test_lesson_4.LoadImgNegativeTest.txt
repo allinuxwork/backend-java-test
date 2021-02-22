@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: backend_test_lesson_4.LoadImgNegativeTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.744 s - in backend_test_lesson_4.LoadImgNegativeTest

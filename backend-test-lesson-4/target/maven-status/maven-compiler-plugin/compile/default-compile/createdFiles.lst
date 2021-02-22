@@ -1,0 +1,11 @@
+backend_test_lesson_4/dto/PostImageResponse$ImageData.class
+backend_test_lesson_4/utils/PropertiesUtils.class
+backend_test_lesson_4/dto/PostImageResponse.class
+backend_test_lesson_4/utils/FileEncodingUtils.class
+backend_test_lesson_4/dto/GetAccountResponse.class
+backend_test_lesson_4/dto/CommonResponse.class
+backend_test_lesson_4/steps/CommonRequests.class
+backend_test_lesson_4/dto/GetAccountResponse$AccountData.class
+backend_test_lesson_4/Endpoints.class
+backend_test_lesson_4/dto/GetAccountResponse$UserFollow.class
+backend_test_lesson_4/Images.class
